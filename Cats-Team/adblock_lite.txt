@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-09-06 03:47:53(GMT+8)
-! Total count: 39684
+! Version: 2026-09-06 10:24:19(GMT+8)
+! Total count: 39688
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -23562,6 +23562,7 @@ zzzyk.com###Tinfo
 ||cctv5.name/js/*foot.js
 ||cctv567.com/b/
 ||cctvpic.com/photoAlbum/templet/common/*/game_
+||cczo7vq6dl.com^
 ||cdcqee.com^
 ||cdeledu.com/ADVC/$domain=~chinaacc.com|~ruidaedu.com
 ||cdgfa.ifeng.com^
@@ -25178,6 +25179,7 @@ zzzyk.com###Tinfo
 ||dm.wenshenxiu.com^
 ||dm.zjut.cc^
 ||dm.zuowenku.net^
+||dm03ef9xf1.com^
 ||dm1.ddwk8.cn^
 ||dm1.zjydt.com^
 ||dm5900.com/piao/
@@ -30719,6 +30721,7 @@ zzzyk.com###Tinfo
 ||ltienll.top^
 ||ltkbyfd.icu^
 ||ltn.com.tw/js/ad_door.js
+||ltnkpzlinptlde.com^
 ||ltrb.cn^
 ||ltrs8bv54p.com^
 ||ltruhowa.com^
@@ -38616,6 +38619,7 @@ zzzyk.com###Tinfo
 ||y6a7ap3io3.com^
 ||y6p7022ep4.com^
 ||y74s.xyz^
+||y84shrg6ui.com^
 ||y89fjgm3vc.com^
 ||y9oog9hyuo.com^
 ||ya*.dwstatic.com^

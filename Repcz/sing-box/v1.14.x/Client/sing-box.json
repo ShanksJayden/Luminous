@@ -74,7 +74,6 @@
             {"rule_set": ["Reject"],"action": "reject"},
             {"rule_set": ["AI"],"action": "route","outbound": "AI"},
             {"rule_set": ["Telegram"],"action": "route","outbound": "Telegram"},
-            {"type": "logical","mode": "and","rules": [{"inbound": ["telegram-socks"]},{"rule_set": ["Telegram"],"invert": true}],"action": "reject"},
             {"rule_set": ["Twitter","Facebook","TikTok"],"action": "route","outbound": "Social"},
             {"rule_set": ["Steam","Epic"],"action": "route","outbound": "Game"},
             {"rule_set": ["Google"],"action": "route","outbound": "Google"},
@@ -125,12 +124,6 @@
             "tag": "mixed",
             "listen": "127.0.0.1",
             "listen_port": 7080
-       },
-        {
-            "type": "socks",
-            "tag": "telegram-socks",
-            "listen": "127.0.0.1",
-            "listen_port": 6153
         },
         {
             "type": "tun",
