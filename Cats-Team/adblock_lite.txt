@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-09-06 10:24:19(GMT+8)
-! Total count: 39688
+! Version: 2026-09-06 18:04:44(GMT+8)
+! Total count: 39693
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -5350,6 +5350,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||ccm*.res.meizu.com/fileserver/operation/ad/img/*.png
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
+@@||cdn.bootcdn.net/ajax/libs/$domain=aoi.hugemaker.com.cn
 @@||cdn.bootcdn.net^$script,domain=38kanshu.net
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=1090ys8.com
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=share1223.com
@@ -5366,6 +5367,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||cdn.rawgit.com/*/lazyload.js$domain=javmost.com
 @@||cdn.runative-syndicate.com/sdk/*/n.js$domain=onemanhua.com
 @@||cdn.sssam.com/static/js/*.js
+@@||cdn.staticfile.org^$domain=aoi.hugemaker.com.cn
 @@||cdn.staticfile.org^$domain=lakyworld.com|biquge77.net|yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|bxwx.live|lzbao.net
 @@||cdn.staticfile.org^$script,domain=movieffm.net
 @@||cdn.theguardian.tv/ad/*.m3u8$domain=theguardian.com
@@ -19958,6 +19960,7 @@ zzzyk.com###Tinfo
 ||3s7m2ss7g.com^
 ||3sd6w6oga9.com^
 ||3sqvexc60y.com^
+||3t4j5adg9x.com^
 ||3t769up6.com^
 ||3v7c7y.online^
 ||3vnofjidlv.com^
@@ -25577,6 +25580,7 @@ zzzyk.com###Tinfo
 ||ea3w.com/pv.js
 ||ea5s00h6oo.com^
 ||eabids.com^
+||ead2qybt9e.com^
 ||eafyfsuh.net/Webservices/jsParseLinks.aspx$script,third-party
 ||eafyfsuh.net/visitScript/$script,third-party
 ||eagb.cn^
@@ -29666,6 +29670,7 @@ zzzyk.com###Tinfo
 ||jwpsrv.com/content/conversions/*/videos/*.mp4?token=$media,domain=ahaonline.cz|info.cz|onetv.cz
 ||jwpsrv.com/content/conversions/*/videos/*.mp4?token=$media,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 ||jwt18trhq.com^
+||jwxggyivum.icu^
 ||jwxwvjsoadjlze.com^
 ||jwylcrb.cn^
 ||jxad.jx163.com^
